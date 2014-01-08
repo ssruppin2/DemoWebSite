@@ -1,0 +1,22 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <h1>hi alon</h1>
+    <h3>stam</h3>
+<<<<<<< HEAD
+    <div>this is from niran</div>
+=======
+    <h4>line4</h4>
+>>>>>>> 57a1b39b7e8b29ffba4f64680d373f0ed14a9c49
+    </div>
+    </form>
+</body>
+</html>
